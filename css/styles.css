@@ -19,3 +19,5 @@ ul li { list-style-type: none; }
 	padding: 20px; 
 	margin: 0px auto; 
 }	
+h2, p { text-align: center; }
+p { color: blue; }
